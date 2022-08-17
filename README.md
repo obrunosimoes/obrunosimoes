@@ -1,4 +1,4 @@
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/obrunosimoes/4f3a432adf8722adfa1613b560797be6/raw/5f9a05564697f2637bbde65c8d4f9c82332e5705/githubcard.svg"/>
+<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/obrunosimoes/4f3a432adf8722adfa1613b560797be6/raw/9fbed32f87b30cb192e4e4df7ece24d60813a478/githubcard.svg"/>
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Bruno Simões</h1>
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=obrunosimoes&color=blue" alt="Profile views" /> </p> -->
 
@@ -43,12 +43,12 @@
 
 <p align="left" style="background:yellow">
 <a href="https://linkedin.com/in/obrunosimoes" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+  <img align="center" src="https://img.shields.io/badge/-obrunosimoes-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
 <a href="https://twitter.com/eubrunosimoes" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=twitter" alt="twitter"/>  
+  <img align="center" src="https://img.shields.io/badge/-obrunosimoes-05122A?style=flat&logo=twitter" alt="twitter"/>  
 </a>
 <a href="https://instagram.com/obrunosimoes" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=instagram" alt="instagram"/>
+ <img align="center" src="https://img.shields.io/badge/-obrunosimoes-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
 </p>
