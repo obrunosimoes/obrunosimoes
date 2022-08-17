@@ -46,7 +46,7 @@
   <img align="center" src="https://img.shields.io/badge/-obrunosimoes-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
 <a href="https://twitter.com/eubrunosimoes" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-obrunosimoes-05122A?style=flat&logo=twitter" alt="twitter"/>  
+  <img align="center" src="https://img.shields.io/badge/-eubrunosimoes-05122A?style=flat&logo=twitter" alt="twitter"/>  
 </a>
 <a href="https://instagram.com/obrunosimoes" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-obrunosimoes-05122A?style=flat&logo=instagram" alt="instagram"/>
